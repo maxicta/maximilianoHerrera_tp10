@@ -1,7 +1,7 @@
 let nombre = "Fulanito"
 let apellido = "Menganito"
 let edad = 25
-let numeroTelefono = 08008881600
+let numeroTelefono = 8008881600
 let socio = true
 let fechaPartido = "28 enero de 2025"
 let numeroSilla = "26b"
